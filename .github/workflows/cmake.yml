@@ -84,8 +84,8 @@ jobs:
           ls
 
 
-      - if:  ${{ runner.os == 'Windows' }}
-        name: Release
+      
+      - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
