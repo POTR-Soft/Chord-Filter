@@ -87,7 +87,8 @@ jobs:
       
       - name: Release
         uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
+        if: |
+         startsWith(github.ref, 'refs/tags/') && ${{ runner.os == 'Windows' }}
         with:
           files: ${{github.workspace}}\build\ChordFilter_artefacts\Release\${{ runner.os}}.zip
 
