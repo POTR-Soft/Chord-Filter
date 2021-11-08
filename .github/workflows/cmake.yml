@@ -101,7 +101,7 @@ jobs:
         if: |
           startsWith(github.ref, 'refs/tags/') && ${{ runner.os != 'Windows' }}
         with:
-          files: ${{ runner.os}}.zip
+          files: build/ChordFilter_artefacts/Release/${{ runner.os}}.zip
 
 
  #     - if: ${{ runner.os == 'Windows' }}
