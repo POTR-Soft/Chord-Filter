@@ -5,8 +5,12 @@ name: cmake
 on:
   push:
     branches: [ main ]
+    tags:
+      - '*'
   pull_request:
     branches: [ main ]
+    tags:
+      - '*'
 
 env:
   # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
