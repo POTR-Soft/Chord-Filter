@@ -10,6 +10,4 @@
 
 **status:** beta test. The plugin is very simple but still quite useful. And we are trying to get it to run smoothly on all systems first, so that we have a working basis for further plugins. You can also open [issues](https://github.com/POTR-Soft/Chord-Filter/issues) if you want, report bugs or feature requests.
 
-- Windows 64bit - https://tinyurl.com/yhuepwmu
-- MacOSX 64bit - https://tinyurl.com/yz7ccgkl
-- Linux 64bit - https://tinyurl.com/yhu4kej2
+- [Download Win/OSX/Linux Binraries](https://github.com/POTR-Soft/Chord-Filter/releases)
