@@ -1,5 +1,7 @@
 # Chord-Filter
 
+![ChordFilter.png](ChordFilter.png)
+
 **what it does:** filters notes from chords based on their position. Example: 1 always returns the 2nd note from the bottom. 0 always returns the lowest (root note). If there are only 3 notes but you select a 4, the top note is always returned.
 
 **why:** i always wanted to have such a note filter and i only know the whole thing from plugins like cthulu, which combine it with other features. and since i like small and combinable plugins, the idea was obvious. I think it's also a good addition to the Bitwig device universe.
