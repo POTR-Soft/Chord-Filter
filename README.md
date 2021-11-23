@@ -8,6 +8,6 @@
 
 **what to use it for:** You can build big chord progressions and then send them to other instruments. There you can freely choose which note you want to use. E.g. only the bass or only the top line for the melody. Also interesting on a single track to build arpegios. I will surely make a video with some examples of use.
 
-**status:** beta test. The plugin is very simple but still quite useful. And we are trying to get it to run smoothly on all systems first, so that we have a working basis for further plugins. You can also open [issues](https://github.com/POTR-Soft/Chord-Filter/issues) if you want, report bugs or feature requests.
+**status:** beta test. The plugin is very simple but still quite useful. And we are trying to get it to run smoothly on all systems first, so that we have a working basis for further plugins. You can also open [issues](https://github.com/POTR-Soft/Chord-Filter/issues) if you want or talk in [discussions](https://github.com/POTR-Soft/Chord-Filter/discussions), report bugs or feature requests.
 
 - [Download Win/OSX/Linux Binraries](https://github.com/POTR-Soft/Chord-Filter/releases)
